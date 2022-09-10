@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/dunst](https://minimal-mistakes.xyz/apps/terminals/dunst).
+All instructions can be found at [minimal-mistakes/dunst](https://minimalmistakes.org/apps/terminals/dunst).
 
 ## Team
 
